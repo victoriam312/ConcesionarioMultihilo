@@ -1,0 +1,11 @@
+# Compilación de NetBeans
+/build/
+/dist/
+/nbproject/private/
+
+# Archivos generados por Java
+*.class
+*.log
+
+# Sistema
+.DS_Store
